@@ -58,8 +58,8 @@ const Dashboard = () => {
     <div className="container py-6 max-w-7xl">
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 pb-4 border-b">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900 dark:text-white">Stock Vision Tracker</h1>
-          <p className="text-muted-foreground">Monitor your portfolio performance in real-time</p>
+          <h1 className="text-2xl font-bold text-gray-900 dark:text-white">8Byte Stock Tracker</h1>
+          <p className="text-muted-foreground">Portfolio performance in real-time <span className="font-bold">Created By: Pratik Sakhare</span></p>
         </div>
         
         <div className="mt-2 sm:mt-0 flex items-center">
